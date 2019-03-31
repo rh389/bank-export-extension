@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "manifest_version": 2,
   "description": "Download HSBC statements to OFX without handing over your login details",
-  "homepage_url": "http://extensionizr.com",
+  "homepage_url": "https://github.com/rh389/bank-export-extension",
   "icons": {
     "16": "icons/icon-16.png",
     "32": "icons/icon-32.png",
